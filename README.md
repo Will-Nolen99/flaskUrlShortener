@@ -1,12 +1,12 @@
 # flaskUrlShortener
 URL shortener implemented in python using flask
 
-#How to use
+# How to use
 ============
 Run main.py to start the webserver.
 The console provides the address to the server.
 
-#Functionality
+# Functionality
 ===========
 The application is a simple web app that allows users to enter URLs to be shortened.
 
